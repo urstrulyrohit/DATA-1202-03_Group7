@@ -1,5 +1,4 @@
 # DATA-1202-03_Group7
-# DATA-1202-03-Group-7
 
 **Analyzing the Impact of Social Media Usage on User Productivity**
 **Dataset**: https://www.kaggle.com/datasets/muhammadroshaanriaz/time-wasters-on-social-media
